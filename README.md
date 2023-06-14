@@ -1,4 +1,4 @@
-![MasterHead](https://philna.sh/_astro/react.738ca5dd.gif)
+
 <h1 align="center">Hi 👋, I'm Alfonso Pineda</h1>
 <h3 align="center">A full-stack developer and UI/UX designer</h3>
 
