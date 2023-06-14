@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://philna.sh/_astro/react.738ca5dd.gif))](https://github.com/AlfonsoPineda)
+[![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsM...](https://philna.sh/_astro/react.738ca5dd.gif](https://philna.sh/_astro/react.738ca5dd.gif)))]
 <h1 align="center">Hi 👋, I'm Alfonso Pineda</h1>
 <h3 align="center">A full-stack developer and UI/UX designer</h3>
 
