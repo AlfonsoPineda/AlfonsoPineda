@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fphilna.sh%2Fblog%2F2018%2F09%2F27%2Ftechniques-for-animating-on-the-canvas-in-react%2F&psig=AOvVaw1n9zokgOp4Y72t7dJdAmJA&ust=1686812748292000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiGkLiZwv8CFQAAAAAdAAAAABAE)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://philna.sh/_astro/react.738ca5dd.gif))]
 <h1 align="center">Hi 👋, I'm Alfonso Pineda</h1>
 <h3 align="center">A full-stack developer and UI/UX designer</h3>
 
