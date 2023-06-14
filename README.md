@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfonsopineda&label=Profile%20views&color=0e75b6&style=flat" alt="alfonsopineda" /> </p>
 
-- 🌱 I’m currently learning **Java and Springboot**
-
 - 🌎 I'm based in **Mexico City**
+
+- 🌱 I’m currently learning **Java and Springboot**
 
 - 💬 Ask me about **Web design and development**
 
